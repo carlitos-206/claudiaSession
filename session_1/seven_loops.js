@@ -55,10 +55,21 @@ const forEachLoop = (array) =>{
   // your code here
 }
 
-// console.log(doubleTheValue(values))
-// console.log(whileLoop(values))
-// console.log(doWhileLoop(values))
-// console.log(forOfLoop(values))
-// console.log(forInLoop(values))
-// console.log(mapLoop(values))
-// console.log(forEachLoop(values))
+let values_1 = ['red', 'blue', 'green', 'yellow', 'orange', 'white', 'black', 'purple']
+let values_2 = ['red', 'blue', 'green', 'yellow', 'orange', 'white', 'black']
+
+// console.log(doubleTheValue(values_1))
+// console.log(whileLoop(values_1))
+// console.log(doWhileLoop(values_1))
+// console.log(forOfLoop(values_1))
+// console.log(forInLoop(values_1))
+// console.log(mapLoop(values_1))
+// console.log(forEachLoop(values_1))
+
+// console.log(doubleTheValue(values_2))
+// console.log(whileLoop(values_2))
+// console.log(doWhileLoop(values_2))
+// console.log(forOfLoop(values_2))
+// console.log(forInLoop(values_2))
+// console.log(mapLoop(values_2))
+// console.log(forEachLoop(values_2))
